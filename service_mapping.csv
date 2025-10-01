@@ -1,0 +1,220 @@
+Focus Union Provider Name,Focus Union Service Name,service_category
+AWS,AWS Key Management Service,Security
+AWS,Amazon Elastic Compute Cloud,Other
+AWS,Amazon Virtual Private Cloud,Other
+AWS,Amazon SageMaker,AI/ML
+AWS,Amazon Managed Streaming for Apache Kafka,Analytics
+AWS,AWS CloudTrail,AI/ML
+AWS,Amazon Route 53,Networking
+AWS,Amazon GuardDuty,Security
+AWS,Amazon Simple Notification Service,Messaging
+AWS,AmazonCloudWatch,Management Tools
+AWS,Amazon Macie,Other
+AWS,Amazon Simple Storage Service,Storage
+AWS,Amazon EC2 Container Registry (ECR),AI/ML
+AWS,Amazon Simple Queue Service,Messaging
+AWS,AWS Glue,Analytics
+AWS,AWS Support (Developer),Management Tools
+AWS,Elastic Load Balancing,Networking
+AWS,Amazon Relational Database Service,Database
+AWS,AWS Config,Other
+AWS,AWS Secrets Manager,Storage
+Google Cloud,Contact Center AI Insights,AI/ML
+Google Cloud,Cloud Spanner,Database
+Google Cloud,Datastream,Other
+Google Cloud,Live Stream API,Media
+Google Cloud,Apache Kafka on Debian12,Analytics
+Google Cloud,Apigee,API Management
+Google Cloud,Pub/Sub Lite,Messaging
+Google Cloud,Geocoding API,Maps
+Google Cloud,Kubernetes Engine,Compute
+Google Cloud,Firebase App Hosting,Other
+Google Cloud,SFTP Secure Server Windows 2016 SSH,Marketplace Services
+Google Cloud,Vertex AI,AI/ML
+Google Cloud,Firebase Realtime Database,Database
+Google Cloud,Cloud Data Loss Prevention,Other
+Google Cloud,Cloud Memorystore,Database
+Google Cloud,Cloud Natural Language,AI/ML
+Google Cloud,click-to-deploy-images c2d-velostrata-console,Marketplace Services
+Google Cloud,Claude 3.7 Sonnet,AI/ML
+Google Cloud,Workload Manager,Other
+Google Cloud,Cloud Logging,Management Tools
+Google Cloud,Container Registry Vulnerability Scanning,AI/ML
+Google Cloud,HPC VM Image (Rocky Linux 8),Compute
+Google Cloud,Cloud Key Management Service (KMS),Security
+Google Cloud,Anthos Service Mesh,Other
+Google Cloud,Backup and DR Service,Storage
+Google Cloud,Cloud Document AI API,AI/ML
+Google Cloud,Neo4j Enterprise Edition,Marketplace Services
+Google Cloud,Vertex AI Vision,AI/ML
+Google Cloud,Google Maps Platform Air Quality Service,AI/ML
+Google Cloud,Cloud Monitoring,Management Tools
+Google Cloud,Cloud Memorystore for Redis,Database
+Google Cloud,Anthos Policy Controller,Management Tools
+Google Cloud,Cloud Run Functions,Compute
+Google Cloud,Integration Connectors,Integration
+Google Cloud,Custom Search,Other
+Google Cloud,Binary Authorization,Other
+Google Cloud,Red Hat Ansible Automation Platform Self-Managed BYOL,Marketplace Services
+Google Cloud,Recommendations AI,AI/ML
+Google Cloud,Claude 3.7 Sonnet (Preview),AI/ML
+Google Cloud,Translate,AI/ML
+Google Cloud,Storage Insights,Management Tools
+Google Cloud,Cloud Bigtable,Database
+Google Cloud,VMware Engine,Compute
+Google Cloud,Cassandra,Database
+Google Cloud,Cloud Dialogflow API,AI/ML
+Google Cloud,GitLab Community Edition on Ubuntu 24.04,Marketplace Services
+Google Cloud,Earth Engine,Analytics
+Google Cloud,BigQuery Storage API,Analytics
+Google Cloud,Cloud Video Intelligence API,Other
+Google Cloud,Blockchain Node Engine,AI/ML
+Google Cloud,Cloud Contact Center AI Platform,AI/ML
+Google Cloud,Dataproc Metastore,Analytics
+Google Cloud,OpenVPN Access Server,Networking
+Google Cloud,Cloud Talent Solution,AI/ML
+Google Cloud,Places API (New),Maps
+Google Cloud,Cloud Memorystore for Memcached,Database
+Google Cloud,Cloud Run,Compute
+Google Cloud,MySQL 5.7 on Ubuntu 14.04 LTS,Database
+Google Cloud,Zscaler Cloud Connector,Marketplace Services
+Google Cloud,Cloud Data Fusion,Analytics
+Google Cloud,Cloud Text-to-Speech API,AI/ML
+Google Cloud,GitLab Server (CE) Community Edition on Ubuntu Server 20.04,Marketplace Services
+Google Cloud,YugabyteDB Anywhere - VM Deploy,Database
+Google Cloud,"F5 BIG-IP Virtual Edition - GOOD  (PAYG, 200Mbps)",Marketplace Services
+Google Cloud,Anthos Sample Deployment on Google Cloud (Preview),Other
+Google Cloud,FortiGate Next-Generation Firewall (PAYG),Networking
+Google Cloud,Source Repository,DevOps
+Google Cloud,Chrome Enterprise Premium,Other
+Google Cloud,Maps API,Maps
+Google Cloud,Cloud Deploy,Other
+Google Cloud,Cloud Speech API,AI/ML
+Google Cloud,Dataplex,AI/ML
+Google Cloud,MySQL,Database
+Google Cloud,Dataproc,Analytics
+Google Cloud,Transcoder API,Media
+Google Cloud,Cloud Workstations,Other
+Google Cloud,Cloud Pub/Sub,Messaging
+Google Cloud,Red Hat® OpenShift® Kubernetes Engine,Compute
+Google Cloud,Google Maps Platform Pollen Service,Maps
+Google Cloud,Assured Workloads,Other
+Google Cloud,API Gateway,Networking
+Google Cloud,Workflows,Other
+Google Cloud,Cloud Trace,Management Tools
+Google Cloud,Network Security,Networking
+Google Cloud,Bindplane Enterprise Edition,Marketplace Services
+Google Cloud,Places API,Maps
+Google Cloud,BigQuery Engine for Apache Flink,Analytics
+Google Cloud,Cloud Firestore,Database
+Google Cloud,Transfer Service,Migration
+Google Cloud,Address Validation API,Other
+Google Cloud,BigQuery BI Engine,Analytics
+Google Cloud,Looker,Analytics
+Google Cloud,Parallelstore,Other
+Google Cloud,github-enterprise-public github-enterprise,Marketplace Services
+Google Cloud,Cloud DNS,Networking
+Google Cloud,VM-Series Next-Generation Firewall (Bundle2),Networking
+Google Cloud,Identity Platform,Security
+Google Cloud,Gemini API,AI/ML
+Google Cloud,Cloud Scheduler,Other
+Google Cloud,Jenkins,Marketplace Services
+Google Cloud,CIS Red Hat Enterprise Linux 8 Benchmark - Level 2,Marketplace Services
+Google Cloud,Claude 3.5 Haiku,AI/ML
+Google Cloud,reCAPTCHA Enterprise,Security
+Google Cloud,Google Service Control,Management Tools
+Google Cloud,RackWare Cloud Migration Virtual Machine,Marketplace Services
+Google Cloud,Wildfly,Marketplace Services
+Google Cloud,Colab,AI/ML
+Google Cloud,velospublic velostrata,Marketplace Services
+Google Cloud,CIS Hardened Image Level 1 on Debian Linux 12,Marketplace Services
+Google Cloud,Docker Engine - Enterprise for Windows Server 2019,Marketplace Services
+Google Cloud,Cloud Filestore,Storage
+Google Cloud,Geolocation API,Maps
+Google Cloud,Deep Learning VM,AI/ML
+Google Cloud,Claude 3.5 Sonnet,AI/ML
+Google Cloud,Neo4j Community Edition,Marketplace Services
+Google Cloud,App Engine,Compute
+Google Cloud,WildFly packaged by Bitnami,Marketplace Services
+Google Cloud,NetScaler VPX FIPS - Customer Licensed,Other
+Google Cloud,Networking,Networking
+Google Cloud,Claude 3.5 Sonnet v2,AI/ML
+Google Cloud,Data Catalog,Analytics
+Google Cloud,Artifact Registry,Storage
+Google Cloud,Cloud Domains,AI/ML
+Google Cloud,VM-Series Next-Generation Firewall with Terraform (BYOL and ELA),Networking
+Google Cloud,VyOS Universal Router for Google Cloud Platform,Networking
+Google Cloud,Notebooks,AI/ML
+Google Cloud,Parameter Manager,Other
+Google Cloud,Cloud NGFW Enterprise,Other
+Google Cloud,Managed Service for Apache Kafka,Analytics
+Google Cloud,GitLab Enterprise Edition Virtual Machine,Marketplace Services
+Google Cloud,Cloud Dataflow,Analytics
+Google Cloud,VM Manager,Compute
+Google Cloud,Certificate Authority Service,Security
+Google Cloud,Document Warehouse,Other
+Google Cloud,Cloud Vision API,AI/ML
+Google Cloud,Duet AI,AI/ML
+Google Cloud,Cloud SQL,Database
+Google Cloud,Database Migration,Migration
+Google Cloud,Compute Engine,Compute
+Google Cloud,BigQuery Reservation API,Analytics
+Google Cloud,VM-Series Next-Generation Firewall (Bundle1),Networking
+Google Cloud,Cloud IDS,Security
+Google Cloud,NetScaler VPX - Customer Licensed,Other
+Google Cloud,CIS Ubuntu Linux 20.04 LTS Benchmark - Level 1,Marketplace Services
+Google Cloud,Application Integration,Integration
+Google Cloud,Cloud Tasks,Other
+Google Cloud,Vertex AI Search,AI/ML
+Google Cloud,ADFS Windows Server 2016,Marketplace Services
+Google Cloud,Google Click to Deploy Migrate for Compute Engine (formerly Velostrata),Compute
+Google Cloud,Remote Build Execution,DevOps
+Google Cloud,GKE Enterprise / GDC,Compute
+Google Cloud,Cloud Storage,Storage
+Google Cloud,Street View Static API,Maps
+Google Cloud,BigQuery,Analytics
+Google Cloud,Proxy Cache Server using Squid,Marketplace Services
+Google Cloud,Mistral Large 24.11,Other
+Google Cloud,VM-Series Next-Generation Firewall (BYOL and ELA),Networking
+Google Cloud,Cloud Composer,Analytics
+Google Cloud,Backup for GKE,Storage
+Google Cloud,Schedmd-Slurm-GCP,Marketplace Services
+Google Cloud,Cloud Machine Learning Engine,AI/ML
+Google Cloud,Catalyst 8000V Edge Software - BYOL,Other
+Google Cloud,Claude 3 Opus,AI/ML
+Google Cloud,Cloud Healthcare,Other
+Google Cloud,Proxy Server - Squid Proxy Cache on Ubuntu 22.04,Other
+Google Cloud,Certificate Manager,Security
+Google Cloud,Looker Studio,Analytics
+Google Cloud,Managed Service for Microsoft Active Directory,Security
+Google Cloud,Cloud Build,DevOps
+Google Cloud,STRIIM ( metered ),Marketplace Services
+Google Cloud,On-Demand Scanning,Other
+Google Cloud,Secret Manager,Storage
+Google Cloud,Claude 3 Haiku,AI/ML
+Google Cloud,Apigee Developer Portal Kickstart,API Management
+Google Cloud,Confidential Computing,Security
+Google Cloud,NetApp Volumes,Marketplace Services
+Google Cloud,Redmine packaged by Bitnami,Marketplace Services
+Google Cloud,Web Risk,Security
+Google Cloud,Firebase Hosting,Other
+Google Cloud,SFTPGo Professional,Marketplace Services
+Google Cloud,MultiClusterIngress,Networking
+Google Cloud,Maps Static API,Maps
+Google Cloud,Cloud TPU,Compute
+Google Cloud,KeyCloak on Ubuntu 24.04,Marketplace Services
+Google Cloud,CipherTrust Manager Community Edition,Other
+Google Cloud,Retail API,AI/ML
+Google Cloud,Redis Server on Ubuntu Server 20.04,Database
+Google Cloud,BindPlane OP Enterprise Edition,Marketplace Services
+Google Cloud,AlloyDB,Database
+Google Cloud,Google Maps Platform Solar Service,Maps
+Google Cloud,Security Command Center,Security
+Google Cloud,GitLab Server (CE) Community Edition on CentOS Stream 9,Marketplace Services
+Google Cloud,SQL Server Enterprise 2017 on Linux - Redhat 7.3,Database
+Microsoft,Storage,Storage
+Microsoft,Azure SQL Database,Database
+Microsoft,Bandwidth,Other
+Microsoft,Azure Cosmos DB,Database
+Microsoft,Application Gateway,Networking
+Microsoft,Virtual Machines,Compute
